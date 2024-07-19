@@ -5,7 +5,7 @@ GitHub: github.com/hoducmanh222
 Phone: 
 
 🎓 Education:
-Bachelor of Science in Computer Science
+Bachelor of Data Science in Economics and Businesses
 National Economics University (NEU), Viet Nam
 Expected Graduation Date: 2027
 
