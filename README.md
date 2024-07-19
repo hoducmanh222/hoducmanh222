@@ -1,5 +1,5 @@
 📧 Contact Information:
-Email: hoducmanh222d@gmail.com
+Email: hoducmanh222@gmail.com
 LinkedIn: linkedin.com/in/hoducmanh222
 GitHub: github.com/hoducmanh222
 Phone: 
